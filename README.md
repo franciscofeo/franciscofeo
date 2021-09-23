@@ -2,7 +2,7 @@
 
 ## Aqui vai um pouco da minha história :fire:
 
-<img align="center" src="https://user-images.githubusercontent.com/64324517/134450660-c91a9d0b-8247-4d17-af24-e834a59d4226.png" height="220"> 
+<img align="right" src="https://user-images.githubusercontent.com/64324517/134450660-c91a9d0b-8247-4d17-af24-e834a59d4226.png" height="220"> 
 
 Meu nome é Francisco, tenho 21 anos e atualmente faço Bacharelado em Física pela UFU em Minas Gerais. Algum tempo atrás, descobri que possuo um grande fascínio pela área de Desenvolvimento Web e desde então estou estudando as principais tecnologias do mercado juntamente com a participação em eventos para me manter atualizado e assim conseguir uma primeira oportunidade de emprego!
 
