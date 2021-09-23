@@ -21,7 +21,7 @@ Meu nome é Francisco, tenho 21 anos e atualmente faço Bacharelado em Física p
 ##
 <p align="center" text-align="center">
   <img src="https://user-images.githubusercontent.com/64324517/134448776-7ef2908d-64a1-4248-83ff-936df23abe1a.gif" width="350">
-  <p> “Fazer ou não fazer. Tentativa não há” Yoda, Mestre. </p>
+  <p  style="text-align: center;" > “Fazer ou não fazer. Tentativa não há” Yoda, Mestre. </p>
 </p>
 
 
