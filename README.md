@@ -17,7 +17,9 @@ Meu nome é Francisco, tenho 21 anos e atualmente faço Bacharelado em Física p
 ## 
 -:briefcase: Atualmente estou em busca de um Estágio ou uma vaga de Programador Júnior, na área de back-end ou front-end.
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/64324517/134448776-7ef2908d-64a1-4248-83ff-936df23abe1a.gif" width="350">
+</p>
 
 
-<img src="https://user-images.githubusercontent.com/64324517/134448776-7ef2908d-64a1-4248-83ff-936df23abe1a.gif" width="350">
 
