@@ -14,15 +14,19 @@ Meu nome é Francisco, tenho 21 anos e atualmente faço Bacharelado em Física p
 - MySQL 
 - Python 
 
-## 
+## Entre em contato comigo! :email: 
 
 -:briefcase: **Atualmente estou em busca de um Estágio ou uma vaga de Programador Júnior, na área de back-end ou front-end.**
 
+Me encontre em <a href="https://www.linkedin.com/in/francisco-angelo/">
+  <img align="left" alt="Abner Rodrigues' LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
 ##
-<p align="center" text-align="center">
+<div align="center" text-align="center">
   <img src="https://user-images.githubusercontent.com/64324517/134448776-7ef2908d-64a1-4248-83ff-936df23abe1a.gif" width="350">
   <p  style="text-align: center;" > “Fazer ou não fazer. Tentativa não há” Yoda, Mestre. </p>
-</p>
+</div>
 
 
 
