@@ -1,6 +1,6 @@
 # Olá, visitante :blush:
 
-## Aqui vai um pouco da minha história :fire:
+## Aqui vai um pouquinho da minha história :fire:
 
 <img align="right" src="https://user-images.githubusercontent.com/64324517/134450660-c91a9d0b-8247-4d17-af24-e834a59d4226.png" height="240"> 
 
