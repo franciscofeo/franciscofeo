@@ -18,9 +18,9 @@ Meu nome é Francisco, tenho 21 anos e atualmente faço Bacharelado em Física p
 
 -:briefcase: **Atualmente estou em busca de um Estágio ou uma vaga de Programador Júnior, na área de back-end ou front-end.**
 
-Me encontre em <a href="https://www.linkedin.com/in/francisco-angelo/">
+<a href="https://www.linkedin.com/in/francisco-angelo/">
   <img align="left" alt="Abner Rodrigues' LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+</a> [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5534984371965)
 
 ##
 <div align="center" text-align="center">
