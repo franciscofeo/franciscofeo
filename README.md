@@ -1,8 +1,6 @@
 # Olá, visitante :blush:
 
-![starwars](https://user-images.githubusercontent.com/64324517/134448776-7ef2908d-64a1-4248-83ff-936df23abe1a.gif)
-
-<iframe src="https://giphy.com/embed/3oEduN21VyqC7cwTIs" width="200" height="80" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/vector-duik-puppetry-3oEduN21VyqC7cwTIs">via GIPHY</a></p>
+![starwars](https://user-images.githubusercontent.com/64324517/134448776-7ef2908d-64a1-4248-83ff-936df23abe1a.gif){:height="50%" width="50%"}
 
 
 - 🔭 I’m currently working on ...
