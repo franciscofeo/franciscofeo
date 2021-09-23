@@ -6,6 +6,7 @@
 
 Meu nome é Francisco, tenho 21 anos e atualmente faço Bacharelado em Física pela UFU em Minas Gerais. Algum tempo atrás, descobri que possuo um grande fascínio pela área de Desenvolvimento Web e desde então estou estudando as principais tecnologias do mercado juntamente com a participação em eventos para me manter atualizado e assim conseguir uma primeira oportunidade de emprego!
 
+-:briefcase: **Atualmente estou em busca de um Estágio ou uma vaga de Programador Júnior, na área de back-end ou front-end.**
   
 ## Principais Tecnologias :nerd_face:
 
@@ -15,9 +16,7 @@ Meu nome é Francisco, tenho 21 anos e atualmente faço Bacharelado em Física p
 - MySQL 
 - Python 
 
-## 
-
--:briefcase: **Atualmente estou em busca de um Estágio ou uma vaga de Programador Júnior, na área de back-end ou front-end.**
+## Vamos lá, entre em contato comigo! 📧
 
 [![lkdnimage](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-angelo/)
 [![wppimage](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5534984371965&text=Ola%20Francisco)
