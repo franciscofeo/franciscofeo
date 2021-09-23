@@ -6,12 +6,12 @@ Meu nome é Francisco, tenho 21 anos e atualmente faço Bacharelado em Física p
 
 ## Principais Tecnologias que estou aprendendo :nerd_face:
 
-- NodeJS <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-- ReactJS <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-- MySQL <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+- NodeJS 
+- ReactJS
+- MySQL 
 - Python 
 
-#
+### :briefcase: Atualmente estou em busca de um Estágio ou uma vaga de Programador Júnior, tanto em back-end ou front-end.
 
 
 
