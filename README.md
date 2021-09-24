@@ -19,7 +19,7 @@ Meu nome é Francisco, tenho 21 anos e atualmente faço Bacharelado em Física p
 ## Vamos lá, entre em contato comigo! 📧
 
 [![lkdnimage](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-angelo/)
-[![wppimage](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5534984371965&text=Ola%20Francisco)
+[![wppimage](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5534984371965&text=Ola,%20Francisco)
 ##
 
 <div align="center" text-align="center">
