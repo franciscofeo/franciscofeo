@@ -6,7 +6,7 @@
 
 Meu nome é Francisco, tenho 21 anos e atualmente faço Bacharelado em Física pela UFU em Minas Gerais. Algum tempo atrás, descobri que possuo um grande fascínio pela área de Desenvolvimento Web e desde então estou estudando as principais tecnologias do mercado juntamente com a participação em eventos para me manter atualizado e assim conseguir uma primeira oportunidade de emprego!
 
--:briefcase: **Atualmente estou em busca de um Estágio ou uma vaga de Programador Júnior, na área de back-end ou front-end.**
+-:briefcase: **Atualmente estou no cargo de *Estágio* como Desenvolvedor de Software na empresa *Open Tecnologia*.**
   
 ## Principais Tecnologias :nerd_face:
 
