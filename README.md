@@ -11,6 +11,7 @@ Meu nome é Francisco, tenho 22 anos e atualmente faço Bacharelado em Física p
 ## Principais Tecnologias :nerd_face:
 
 - Java
+- Kotlin
 - Spring Framework
 - SQL e NoSQL
 - Python
