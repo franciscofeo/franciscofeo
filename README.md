@@ -14,6 +14,7 @@ Meu nome é Francisco, tenho 22 anos e atualmente faço Bacharelado em Física p
 - Kotlin
 - Spring Framework
 - SQL e NoSQL
+- C/C++
 - Python
 
 ## Vamos lá, entre em contato comigo! 📧
