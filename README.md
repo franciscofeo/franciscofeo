@@ -6,7 +6,7 @@
 
 Meu nome é Francisco, tenho 22 anos e atualmente faço Bacharelado em Física pela UFU em Minas Gerais. Há algum tempo atrás, descobri que possuo um grande fascínio pela área de Desenvolvimento Web e desde então estou estudando as principais tecnologias do mercado juntamente com a participação em eventos para me manter atualizado e assim melhorar minhas competências!
 
-Como hobby, curto também estudar coisas no meu tempo livre que não são voltadas diretamente para a parte de Web, como sistemas embarcados, algoritmos e compiladores.
+Como hobby, curto também estudar coisas no meu tempo livre que não são voltadas diretamente para a parte de Web, como sistemas embarcados, compiladores e programação competitiva.STM32
 
 :briefcase: **Cargo Atual:** Associate Backend Developer at Digital Republic
   
