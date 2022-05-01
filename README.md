@@ -16,7 +16,7 @@ Como hobby, curto também estudar coisas no meu tempo livre que não são voltad
 - Kotlin
 - Spring Framework
 - SQL e NoSQL
-- C / C++
+- Go
 - Python
 
 ## Vamos lá, entre em contato comigo! 📧
