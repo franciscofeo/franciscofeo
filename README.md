@@ -4,7 +4,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/64324517/134450660-c91a9d0b-8247-4d17-af24-e834a59d4226.png" height="240"> 
 
-Meu nome é Francisco, tenho 22 anos e atualmente faço Bacharelado em Física pela UFU em Minas Gerais. Há algum tempo atrás, descobri que possuo um grande fascínio pela área de Desenvolvimento Web e desde então estou estudando as principais tecnologias do mercado juntamente com a participação em eventos para me manter atualizado e assim melhorar minhas competências!
+Meu nome é Francisco, tenho 23 anos e atualmente faço Bacharelado em Física pela UFU em Minas Gerais. Há algum tempo atrás, descobri que possuo um grande fascínio pela área de Desenvolvimento Web e desde então estou estudando as principais tecnologias do mercado juntamente com a participação em eventos para me manter atualizado e assim melhorar minhas competências!
 
 Como hobby, curto também estudar coisas no meu tempo livre que não são voltadas diretamente para a parte de Web, como sistemas embarcados, compiladores e programação competitiva.
 
