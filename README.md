@@ -8,7 +8,7 @@ Meu nome é Francisco, tenho 23 anos e atualmente faço Bacharelado em Física p
 
 Como hobby, curto também estudar coisas no meu tempo livre que não são voltadas diretamente para a parte de Web, como sistemas embarcados, compiladores e programação competitiva.
 
-:briefcase: **Cargo Atual:** Associate Backend Developer at Digital Republic
+:briefcase: **Cargo Atual:** Backend Developer at BEES Brasil | Part of AB-Inbev
   
 ## Principais Tecnologias :nerd_face:
 
