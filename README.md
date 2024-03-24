@@ -15,7 +15,7 @@ As a hobby, I enjoy studying things like embedded systems, compilers, and infras
 - Java
 - Kotlin
 - Spring Framework
-- SQL (PostgreSQL and MySQL) and NoSQL (MongoDB, DynamoDB)
+- SQL (PostgreSQL, MySQL) and NoSQL (MongoDB, DynamoDB)
 - Go
 - Python
 
